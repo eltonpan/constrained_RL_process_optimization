@@ -1,6 +1,6 @@
 # Code for Paper: *Constrained Model-free Feinforcement Learning for Process Optimization*
 
-Paper url: [Constrained Model-free Feinforcement Learning for Process Optimization](https://www.sciencedirect.com/science/article/abs/pii/S0098135421002404)
+Paper url: [Constrained Model-free Feinforcement Learning for Process Optimization, Comput. & Chem. Eng., p.107462 (2021)](https://www.sciencedirect.com/science/article/abs/pii/S0098135421002404)
 
 Elton Pan, Panagiotis Petsagkourakis, Max Mowbray, Dongda Zhang, Ehecatl Antonio del Rio-Chanona
 
