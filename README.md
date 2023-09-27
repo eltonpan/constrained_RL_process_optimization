@@ -1,4 +1,4 @@
-# Code for *Constrained Model-free Feinforcement Learning for Process Optimization*
+# Code for Paper: *Constrained Model-free Feinforcement Learning for Process Optimization*
 
 Paper url: [Constrained Model-free Feinforcement Learning for Process Optimization](https://www.sciencedirect.com/science/article/abs/pii/S0098135421002404)
 
