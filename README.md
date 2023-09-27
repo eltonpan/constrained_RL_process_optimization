@@ -1,5 +1,7 @@
 # Code for *Constrained Model-free Feinforcement Learning for Process Optimization*
 
+Paper url: [Constrained Model-free Feinforcement Learning for Process Optimization](https://www.sciencedirect.com/science/article/abs/pii/S0098135421002404)
+
 Elton Pan, Panagiotis Petsagkourakis, Max Mowbray, Dongda Zhang, Ehecatl Antonio del Rio-Chanona
 
 Centre for Process Systems Engineering, Department of Chemical Engineering, Imperial College London, UK
@@ -14,42 +16,6 @@ Reinforcement learning (RL) is a control approach that can handle nonlinear stoc
 ![Alt text](/figures/case_study1_backoff.png "shap")
 
 ![Alt text](/figures/case_study1_mpc.png "shap")
-
-<!-- ## Setup and installation
-
-Run the following terminal commands 
-
-1. Clone repo to local directory
-
-```bash
-  git clone https://github.com/eltonpan/Constrained_RL.git
-```
-
-2. Set up and activate conda environment
-```bash
-  cd 
-```
-```bash
-  conda env create -f env.yml
-```
-```bash
-  conda activate 
-```
-
-3. Add conda environment to Jupyter notebook
-```bash
-  conda install -c anaconda ipykernel
-```
-```bash
-  python -m ipykernel install --user --name=
-```
-
-4. Open jupyter notebooks
-```bash
-  jupyter notebook <notebook_name>.ipynb
-```
-
-make sure the `zeosyn` is the environment under dropdown menu `Kernel` > `Change kernel` -->
 
 # Cite
 If you use this code, please cite this paper:
