@@ -1,6 +1,6 @@
 # Code for *Constrained Model-free Feinforcement Learning for Process Optimization*
 
-Elton Pan, Panagiotis Petsagkourakis, Max Mowbray, Dongda Zhang, Ehecatl Antonio del Rio-Chanonaa
+Elton Pan, Panagiotis Petsagkourakis, Max Mowbray, Dongda Zhang, Ehecatl Antonio del Rio-Chanona
 
 Centre for Process Systems Engineering, Department of Chemical Engineering, Imperial College London, UK
 Centre for Process Systems Engineering, Department of Chemical Engineering, University College London, UK c Department of Chemical Engineering and Analytical Science, University of Manchester, UK
